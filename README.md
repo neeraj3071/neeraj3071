@@ -37,9 +37,18 @@ Cloud Bookstore → AWS-Deployed Distributed System
 ![](https://github-readme-activity-graph.vercel.app/graph?username=neeraj3071&theme=github-compact&hide_border=true)
 
 ## 🔝 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neeraj3071&repo=HotWheels-Marketplace&theme=dark)](https://github.com/neeraj3071/HotWheels-Marketplace)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neeraj3071&repo=GreenChain-Community-Eco-Action-Tracker&theme=dark)](https://github.com/neeraj3071/GreenChain-Community-Eco-Action-Tracker)
+<p align="center">
+  <a href="https://github.com/neeraj3071/Personal-Life-DashBoard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neeraj3071&repo=Personal-Life-DashBoard&theme=dark" />
+  </a>
+  <a href="https://github.com/neeraj3071/HotWheels-Marketplace">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neeraj3071&repo=HotWheels-Marketplace&theme=dark" />
+  </a>
+  <a href="https://github.com/neeraj3071/GreenChain-Community-Eco-Action-Tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=neeraj3071&repo=GreenChain-Community-Eco-Action-Tracker&theme=dark" />
+  </a>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=neeraj3071&icon=0&color=0)](https://visitcount.itsvg.in)
