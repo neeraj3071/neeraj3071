@@ -5,13 +5,13 @@ Ex-SDE @ Reliance Jio
 Building Scalable Systems, Microservices & Cloud-Native Apps
 Interested in Backend Engineering, System Design & AI
 
-# Impact
+### Impact
 Built 30+ Microservices → Improved System Performance by 40%
 Reduced Manual Analysis Effort by 70% via Automation Pipelines
 Improved Frontend Performance by 30% Across Enterprise Apps
 Shipped Full-Stack Platforms Used in Real-World Production
 
-# Projects
+### Projects
 Life Dashboard → AI-Powered Personal Analytics Platform
 HotWheels Marketplace → Scalable Marketplace with Real-Time Features
 GreenChain → 🏆 Hackathon-Winning Sustainability Platform
