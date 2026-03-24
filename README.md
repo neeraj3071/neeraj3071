@@ -29,8 +29,6 @@ Cloud Bookstore → AWS-Deployed Distributed System
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neeraj3071&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj3071&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=neeraj3071&theme=flat&no-frame=true&margin-w=8)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
