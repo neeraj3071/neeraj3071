@@ -1,17 +1,6 @@
-<!-- 
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ███╗   ██╗███████╗███████╗██████╗  █████╗      ██╗███████╗██╗███╗   ██╗     ║
-║   ████╗  ██║██╔════╝██╔════╝██╔══██╗██╔══██╗     ██║██╔════╝██║████╗  ██║     ║
-║   ██╔██╗ ██║█████╗  █████╗  ██████╔╝███████║     ██║█████╗  ██║██╔██╗ ██║     ║
-║   ██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗██╔══██║██   ██║██╔══╝  ██║██║╚██╗██║     ║
-║   ██║ ╚████║███████╗███████╗██║  ██║██║  ██║╚█████╔╝███████╗██║██║ ╚████║     ║
-║   ╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚══════╝╚═╝╚═╝  ╚═══╝     ║
-║                                                                              ║
-║        🚀 FULL-STACK ENGINEER • BACKEND SPECIALIST • AI ENTHUSIAST 🚀        ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
--->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- 🚀 NEERAJ SAINI - GITHUB PROFILE                              -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
@@ -19,25 +8,51 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Backend+Specialist;Microservices+%7C+Cloud+%7C+AI"/>
+
+<br/><br/>
+
 <a href="https://github.com/neeraj3071">
-  <img src="https://komarev.com/ghpvc/?username=neeraj3071&label=Profile%20Views&color=764ba2&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=neeraj3071&label=Profile%20Views&color=764ba2&style=flat-square"/>
 </a>
 &nbsp;
 <a href="https://github.com/neeraj3071?tab=repositories">
-  <img src="https://img.shields.io/github/repo-size/neeraj3071?style=flat-square&color=f093fb" />
+<img src="https://img.shields.io/github/repositories/neeraj3071?style=flat-square&color=f093fb"/>
 </a>
 &nbsp;
 <a href="https://github.com/neeraj3071?tab=followers">
-  <img src="https://img.shields.io/github/followers/neeraj3071?style=flat-square&color=667eea" />
+<img src="https://img.shields.io/github/followers/neeraj3071?style=flat-square&color=667eea"/>
 </a>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 👤 About Me
+<!-- TERMINAL INTRO -->
+
+<div align="center">
+
+```
+> whoami
+Neeraj Saini
+
+> status
+MS CS @ University of Michigan–Dearborn | GPA: 3.96
+
+> experience
+Ex-Software Development Engineer @ Reliance Jio
+
+> focus
+Building scalable backend systems, microservices & cloud-native apps
+```
+
+</div>
+
+---
+
+## 👤 ABOUT ME
 
 <table>
 <tr>
@@ -45,21 +60,19 @@
 
 ```yaml
 name: Neeraj Saini
-education: MS CS @ University of Michigan–Dearborn
-gpa: 3.96
-experience: Ex-SDE @ Reliance Jio
+role: Full-Stack Engineer
 
 areas_of_expertise:
   - Backend Engineering
   - Microservices Architecture
-  - Cloud-Native Systems
   - System Design
-  - AI & Automation
+  - Cloud Computing
+  - AI Integration
 
 currently_building:
-  - Scalable Distributed Systems
-  - AI-powered Platforms
+  - Distributed Systems
   - Real-time Applications
+  - AI-powered Platforms
 
 life_philosophy: "Build scalable systems. Automate everything."
 ```
@@ -70,20 +83,20 @@ life_philosophy: "Build scalable systems. Automate everything."
 
 ### 🚀 Current Focus
 
-- 🔬 Building scalable backend systems  
-- ☁️ Designing cloud-native architectures  
-- ⚡ Improving system performance  
-- 🤖 Exploring AI integrations  
-- 🌟 Contributing to open-source  
+- 🔬 Scalable Backend Systems  
+- ☁️ Cloud-Native Development  
+- ⚡ Performance Optimization  
+- 🤖 AI Integrations  
+- 🌟 Open Source  
 
 <br/>
 
 ### 💡 Quick Facts
 
 - 🎓 GPA: 3.96  
-- 🏢 Ex-SDE @ Reliance Jio  
-- 🔥 Built 30+ microservices  
-- 🚀 Production-ready systems builder  
+- 🏢 Ex-SDE @ Jio  
+- 🚀 30+ Microservices  
+- 📈 Performance-driven engineer  
 
 </td>
 </tr>
@@ -91,7 +104,9 @@ life_philosophy: "Build scalable systems. Automate everything."
 
 ---
 
-## 🏆 Achievements
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+## 🏆 ACHIEVEMENTS
 
 <div align="center">
 
@@ -101,7 +116,9 @@ life_philosophy: "Build scalable systems. Automate everything."
 
 ---
 
-## 📊 GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -109,11 +126,11 @@ life_philosophy: "Build scalable systems. Automate everything."
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj3071&theme=tokyonight&hide_border=true"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj3071&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=neeraj3071&theme=tokyo-night&hide_border=true"/>
 
@@ -121,7 +138,9 @@ life_philosophy: "Build scalable systems. Automate everything."
 
 ---
 
-## 🎮 Contribution Showcase
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+## 🎮 CONTRIBUTION SHOWCASE
 
 <div align="center">
 
@@ -129,17 +148,24 @@ life_philosophy: "Build scalable systems. Automate everything."
 
 <br/>
 
-<sub>🐍 Watch the snake eat your contributions!</sub>
+<sub>👾 Watch contributions come alive!</sub>
 
 </div>
 
 ---
 
-## ⚡ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+## ⚡ TECH STACK
 
 ### 💻 Languages
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,kotlin,c"/>
+</p>
+
+### 🤖 AI & ML
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn"/>
 </p>
 
 ### 🌐 Web Development
@@ -147,31 +173,35 @@ life_philosophy: "Build scalable systems. Automate everything."
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask"/>
 </p>
 
-### ☁️ Cloud & DevOps
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins"/>
-</p>
-
 ### 🗄️ Databases
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis"/>
 </p>
 
+### 🔧 Tools & Platforms
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,aws,azure"/>
+</p>
+
 ---
 
-## ⚡ Currently Working On
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+## ⚡ CURRENTLY WORKING ON
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/🚀_Microservices-Scalable_Systems-667eea?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/☁️_Cloud-Native_Apps-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤖_AI_Integration-f093fb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☁️_Cloud-Native-Apps-764ba2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_AI-Integration-f093fb?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+## 🌐 CONNECT WITH ME
 
 <div align="center">
 
@@ -195,7 +225,9 @@ life_philosophy: "Build scalable systems. Automate everything."
 
 ---
 
-## 💭 Dev Quote
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+## 💭 RANDOM DEV QUOTE
 
 <div align="center">
 
