@@ -16,8 +16,6 @@
 <img src="https://komarev.com/ghpvc/?username=neeraj3071&label=Profile%20Views&color=764ba2&style=flat-square"/>
 </a>
 &nbsp;
-<a href="https://github.com/neeraj3071?tab=repositories">
-<img src="https://img.shields.io/github/repositories/neeraj3071?style=flat-square&color=f093fb"/>
 </a>
 &nbsp;
 <a href="https://github.com/neeraj3071?tab=followers">
